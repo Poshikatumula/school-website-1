@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-family: fantasy;
+}
+#ul{
+    color: white;
+    font-family: cursive;
+     list-style: none;
+    position: fixed;
+
+    cursor: pointer;
+    z-index: 10;
+}
